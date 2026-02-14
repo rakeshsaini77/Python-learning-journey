@@ -1,4 +1,4 @@
-# Python-learning-journey
+# Python Learning Journey 
 
 Hi, I am Rakesh.
 I am learning Python from scratch and documenting my daily progress here.
