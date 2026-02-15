@@ -21,3 +21,13 @@ Topics Covered:
 - User defined class
 
 More updates coming daily 🚀
+
+
+## Day 2
+Topics Covered:
+- Variables
+- input() function
+- Type Casting
+- If-Else
+- User Profile Generator Project
+
