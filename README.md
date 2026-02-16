@@ -31,3 +31,13 @@ Topics Covered:
 - If-Else
 - User Profile Generator Project
 
+## 📅 Day 3
+
+Topics Covered:
+- Keywords
+- Identifiers
+- Introduction to Loops
+- for loop
+- while loop
+
+
