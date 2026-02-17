@@ -5,39 +5,25 @@ I am learning Python from scratch and documenting my daily progress here.
 
 ## Day 1
 Topics Covered:
-- print() function
-- sep and end parameters
-- Basic Data Types
-  - int
-  - float
-  - bool
-  - complex
-  - string
-- Container Types
-  - list
-  - tuple
-  - set
-  - dictionary
-- User defined class
+1.print() function
 
-More updates coming daily 🚀
-
+2. Basic Data Types
 
 ## Day 2
 Topics Covered:
-- Variables
-- input() function
-- Type Casting
-- If-Else
-- User Profile Generator Project
+1. cooments
+2. Variables
 
-## 📅 Day 3
+
+## Day 3
 
 Topics Covered:
-- Keywords
-- Identifiers
-- Introduction to Loops
-- for loop
-- while loop
+1. keywords and identifires
+2. Taking user input
 
+
+## Day 4
+Topics covered:
+1. Type conversion
+2. Literals 
 
