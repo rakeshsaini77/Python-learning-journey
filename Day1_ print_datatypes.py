@@ -1,9 +1,11 @@
 
-# Day 1 - Python Basics
-# Topic: print() function & Data Types
 
-# PRINT FUNCTION
+# Topic: 
+# 1.print() function 
+# 2.Data Types
 
+
+# 1.print() function 
 
 print("Hello World")
 print(6)
@@ -13,22 +15,21 @@ print("India", "Pakistan", "Nepal", "SriLanka")
 
 print("India", 5, True)
 
-# Using separator
+
 print("India", "Pakistan", "Nepal", "SriLanka", sep=" | ")
 
 print("India", "Pakistan", "Nepal", "SriLanka", sep=" - ")
 
-# Default new line behavior
+
 print("Hello")
 print("World")
 
-# Using end parameter
+
 print("Hello", end=" ")
 print("World")
 
-# DATA TYPES
+  #2.DATA TYPES
 
-# 1️⃣ Basic Types
 
 # Integer
 print(4)
@@ -53,9 +54,7 @@ print('Rajasthan')
 print("""Rajasthan""")
 print(type("Rajasthan"))
 
-# 2️⃣ Container Types
-
-
+## container data type
 # List
 print([1, 2, 3, 4, 5])
 print(type([1, 2, 3, 4, 5]))
@@ -76,7 +75,7 @@ student = {
 print(student)
 print(type(student))
 
-# 3️⃣ User Defined Type
+# User Defined Type
 
 class Student:
     pass
