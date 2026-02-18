@@ -2,6 +2,7 @@
 #1.Type Conversion
 
 
+
 #  String to Integer
 num_str = "100"
 num_int = int(num_str)
