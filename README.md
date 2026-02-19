@@ -27,5 +27,10 @@ Topics covered:
 1. Type conversion
 2. Literals 
  ## Day 5
- topice overed:
+Topics covered:
 1.Type conversion
+
+## Day 6
+Topics covered:
+1. Literals
+2. opreators
