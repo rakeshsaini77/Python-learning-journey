@@ -34,3 +34,8 @@ Topics covered:
 Topics covered:
 1. Literals
 2. opreators
+
+## Day 7
+Topics covered:
+1.If else
+2.indentaion
